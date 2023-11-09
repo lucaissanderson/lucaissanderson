@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaissanderson
 - 👀 I’m interested in virtual machines, nueral networks, so many things.
-- 🌱 I’m currently learning more advanced Python techniques and beginning on C @ UCSC!
+- 🌱 I’m currently familiarizing myself with Vivado for Logic Design at UCSC!
 - 💞️ I’m looking to collaborate on anything I can get my hands on.
 - 📫 How to reach me Discord: Clippy#9784; Email: lucaissanderson@gmail.com
 
